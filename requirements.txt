@@ -1,0 +1,27 @@
+# packages in environment at /home/abhijeet/miniconda3/envs/py2env:
+#
+# Name                    Version                   Build  Channel
+beautifulsoup4            4.6.0                     <pip>
+ca-certificates           2018.03.07                    0  
+certifi                   2018.4.16                py27_0  
+chardet                   3.0.4                     <pip>
+elasticsearch             6.2.0                     <pip>
+idna                      2.6                       <pip>
+libedit                   3.1.20170329         h6b74fdf_2  
+libffi                    3.2.1                hd88cf55_4  
+libgcc-ng                 7.2.0                hdf63c60_3  
+libstdcxx-ng              7.2.0                hdf63c60_3  
+lxml                      4.2.1                     <pip>
+ncurses                   6.1                  hf484d3e_0  
+openssl                   1.0.2o               h20670df_0  
+pip                       10.0.1                   py27_0  
+python                    2.7.15               h1571d57_0  
+readline                  7.0                  ha6073c6_4  
+requests                  2.18.4                    <pip>
+setuptools                39.1.0                   py27_0  
+sqlite                    3.23.1               he433501_0  
+tk                        8.6.7                hc745277_3  
+urllib3                   1.22                      <pip>
+user-agent                0.1.9                     <pip>
+wheel                     0.31.1                   py27_0  
+zlib                      1.2.11               ha838bed_2  
