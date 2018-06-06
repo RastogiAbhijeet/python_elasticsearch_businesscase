@@ -260,28 +260,4 @@ class Manage_data(object):
         except Exception as ex:
             print(ex)
 
-if __name__ == "__main__":
-
-    logging.basicConfig(level = logging.ERROR)
-    index= "newjerseynewhha"
-    elastic_object = Manage_data("newjerseynewhha", "DoctorInfo")
-     # Total number of doctors by city
-    print("Total number of doctors by city")
-    elastic_object.group_by_city(index)
-
-    # Total number of doctors by specialty
-    print("Total number of doctors by specialty")
-    elastic_object.group_by_speciality(index)  
-    
-    # Total number of doctors based on their experience range
-    print("Total number of doctors based on their experience range")
-    print(elastic_object.year_filter(index, 0,4))
-    print(elastic_object.year_filter(index, 5,10))
-    print(elastic_object.year_filter(index, 11,16))
-    print(elastic_object.year_filter(index, 17,20))
-    print(elastic_object.year_filter(index, 21,100))
-    
-    # Total number of doctors by zipcode
-    print("Total number of doctors by zipcode")
-    elastic_object.group_by_zip(index)
 
