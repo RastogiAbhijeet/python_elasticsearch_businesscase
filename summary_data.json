@@ -1,0 +1,888 @@
+// FIRST 20 RECORDS OUT OF 762 SCRAPPED RECORDS
+
+{
+  "took": 2,
+  "timed_out": false,
+  "_shards": {
+    "total": 5,
+    "successful": 5,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": 762,
+    "max_score": 1,
+    "hits": [
+      {
+        "_index": "newjerseynewhha",
+        "_type": "DoctorInfo",
+        "_id": "ImFZ02MBGOchcLmEXUkV",
+        "_score": 1,
+        "_source": {
+          "subspecialties": [
+            "Pain Medicine"
+          ],
+          "name": "John Cho",
+          "language": [
+            "English"
+          ],
+          "certification": [
+            "American Board of Anesthesiology"
+          ],
+          "overview": """Dr. John Cho is an anesthesiologist in Englewood Cliffs, New Jersey and is affiliated with Holy Name Medical Center. He received his medical degree from Rutgers Robert Wood Johnson Medical School and has been in practice between 11-20 years. He is one of 42 doctors at <a href="/best-hospitals/area/nj/holy-name-medical-center-6221390">Holy Name Medical Center</a> who specialize in Anesthesiology. He also speaks multiple languages, including Korean.""",
+          "subcity": "alpine",
+          "officeLocation": {
+            "city": "Englewood Cliffs",
+            "zip": "07632",
+            "address1": "385 Sylvan Ave",
+            "address2": "Suite 23",
+            "longitude": -73.9742289,
+            "state": "NJ",
+            "latitude": 40.968868
+          },
+          "hospital_affiliation": [
+            "Holy Name Medical Center"
+          ],
+          "specialities": "Anesthesiology",
+          "licenses": [
+            "NJ Medical License",
+            "NY Medical License"
+          ],
+          "years_in_practice": 11,
+          "education": [
+            "Mount Sinai St. Luke's - West Hospital Center",
+            "St Luke's-Roosevelt Hospital Center",
+            "Jersey Shore Medical Center",
+            "Rutgers Robert Wood Johnson Medical School"
+          ]
+        }
+      },
+      {
+        "_index": "newjerseynewhha",
+        "_type": "DoctorInfo",
+        "_id": "I2FZ02MBGOchcLmEXUlC",
+        "_score": 1,
+        "_source": {
+          "subspecialties": [
+            "General Anesthesiology"
+          ],
+          "name": "Steven Doh",
+          "language": [
+            "English"
+          ],
+          "certification": [
+            "American Board of Anesthesiology"
+          ],
+          "overview": """Dr. Steven Doh is an anesthesiologist in Yonkers, New York and is affiliated with multiple hospitals in the area, including Bon Secours Community Hospital and Good Samaritan Regional Medical Center. He received his medical degree from Ross University School of Medicine and has been in practice for more than 20 years. He is one of 26 doctors at <a href="/best-hospitals/area/ny/bon-secours-community-hospital-6214053">Bon Secours Community Hospital</a> and one of 38 at <a href="/best-hospitals/area/ny/good-samaritan-hospital-6214765">Good Samaritan Regional Medical Center</a> who specialize in Anesthesiology.""",
+          "subcity": "alpine",
+          "officeLocation": {
+            "city": "Yonkers",
+            "zip": "10701",
+            "address1": "127 S Broadway",
+            "address2": null,
+            "longitude": -73.897499,
+            "state": "NY",
+            "latitude": 40.929268
+          },
+          "hospital_affiliation": [
+            "St. Joseph's Medical Center",
+            "Good Samaritan Regional Medical Center",
+            "Bon Secours Community Hospital"
+          ],
+          "specialities": "Anesthesiology",
+          "licenses": [
+            "NJ Medical License",
+            "NY Medical License"
+          ],
+          "years_in_practice": 21,
+          "education": [
+            "Monmouth Medical Center",
+            "Monmouth Medical Center",
+            "Ross University School of Medicine"
+          ]
+        }
+      },
+      {
+        "_index": "newjerseynewhha",
+        "_type": "DoctorInfo",
+        "_id": "KWFZ02MBGOchcLmEXklu",
+        "_score": 1,
+        "_source": {
+          "subspecialties": [
+            "General Anesthesiology"
+          ],
+          "name": "Randolph Sampson",
+          "language": [
+            "English"
+          ],
+          "certification": [],
+          "overview": "Dr. Randolph Sampson is an anesthesiologist in Yonkers, New York. He received his medical degree from Karl-Franzens University of Graz Faculty of Medicine and has been in practice for more than 20 years.",
+          "subcity": "alpine",
+          "officeLocation": {
+            "city": "Yonkers",
+            "zip": "10701",
+            "address1": "127 S Broadway",
+            "address2": null,
+            "longitude": -73.8964607,
+            "state": "NY",
+            "latitude": 40.9289544
+          },
+          "hospital_affiliation": [],
+          "specialities": "Anesthesiology",
+          "licenses": [
+            "NJ Medical License",
+            "NY Medical License"
+          ],
+          "years_in_practice": 21,
+          "education": [
+            "Newark Beth Israel Medical Center",
+            "Maimonides Medical Center",
+            "UMDNJ-University Hospital",
+            "Karl-Franzens University of Graz Faculty of Medicine"
+          ]
+        }
+      },
+      {
+        "_index": "newjerseynewhha",
+        "_type": "DoctorInfo",
+        "_id": "K2FZ02MBGOchcLmEX0kL",
+        "_score": 1,
+        "_source": {
+          "subspecialties": [
+            "General Anesthesiology",
+            "Pain Medicine",
+            "Pediatric Pain Medicine"
+          ],
+          "name": "Francisco Erfe",
+          "language": [
+            "English"
+          ],
+          "certification": [
+            "American Board of Anesthesiology"
+          ],
+          "overview": """Dr. Francisco Erfe is an anesthesiologist in Yonkers, New York and is affiliated with St. John's Riverside Hospital. He received his medical degree from University of the Philippines College of Medicine and has been in practice for more than 20 years. He is one of 17 doctors at <a href="/best-hospitals/area/ny/st-johns-riverside-hospital-6210039">St. John's Riverside Hospital</a> who specialize in Anesthesiology.""",
+          "subcity": "alpine",
+          "officeLocation": {
+            "city": "Yonkers",
+            "zip": "10701",
+            "address1": "967 N Broadway",
+            "address2": "Department Of Anesthesia",
+            "longitude": -73.8849266,
+            "state": "NY",
+            "latitude": 40.9682927
+          },
+          "hospital_affiliation": [
+            "St. John's Riverside Hospital"
+          ],
+          "specialities": "Anesthesiology",
+          "licenses": [
+            "NY Medical License"
+          ],
+          "years_in_practice": 21,
+          "education": [
+            "New York Medical College",
+            "NYU School of Medicine - Brooklyn Campus",
+            "Medical University of South Carolina",
+            "New York Medical College",
+            "University of the Philippines College of Medicine"
+          ]
+        }
+      },
+      {
+        "_index": "newjerseynewhha",
+        "_type": "DoctorInfo",
+        "_id": "MWFZ02MBGOchcLmEYElB",
+        "_score": 1,
+        "_source": {
+          "subspecialties": [
+            "General Medical Genetics",
+            "Clinical Genetics",
+            "Pediatric Medical Genetics"
+          ],
+          "name": "John Greally",
+          "language": [
+            "English"
+          ],
+          "certification": [
+            "American Board of Medical Genetics and Genomics"
+          ],
+          "overview": """Dr. John Greally is a medical genetics doctor in Bronx, New York and is affiliated with Montefiore Medical Center. Dr. Greally accepts several types of health insurance, listed below. He is one of 6 doctors at <a href="/best-hospitals/area/ny/montefiore-medical-center-6213100">Montefiore Medical Center</a> who specialize in Medical Genetics.""",
+          "subcity": "alpine",
+          "officeLocation": {
+            "city": "Bronx",
+            "zip": "10467",
+            "address1": "3415 Bainbridge Ave",
+            "address2": "Children's Hospital at Montefiore",
+            "longitude": -73.8792,
+            "state": "NY",
+            "latitude": 40.8803
+          },
+          "hospital_affiliation": [
+            "Montefiore Medical Center"
+          ],
+          "specialities": null,
+          "licenses": [
+            "NY Medical License"
+          ],
+          "years_in_practice": 1,
+          "education": []
+        }
+      },
+      {
+        "_index": "newjerseynewhha",
+        "_type": "DoctorInfo",
+        "_id": "MmFZ02MBGOchcLmEYElt",
+        "_score": 1,
+        "_source": {
+          "subspecialties": [
+            "General Medical Genetics",
+            "Clinical Genetics"
+          ],
+          "name": "Susan Gross",
+          "language": [
+            "English"
+          ],
+          "certification": [
+            "American Board of Obstetrics and Gynecology",
+            "American Board of Medical Genetics and Genomics"
+          ],
+          "overview": "Dr. Susan Gross is a medical genetics doctor in Bronx, New York. She received her medical degree from University of Toronto Faculty of Medicine and has been in practice for more than 20 years. Dr. Gross accepts several types of health insurance, listed below.",
+          "subcity": "alpine",
+          "officeLocation": {
+            "city": "Bronx",
+            "zip": "10471",
+            "address1": "SJG Advisors, LLC",
+            "address2": "10 Alderbrook Road",
+            "longitude": -73.9053,
+            "state": "NY",
+            "latitude": 40.9011
+          },
+          "hospital_affiliation": [],
+          "specialities": null,
+          "licenses": [
+            "NY Medical License"
+          ],
+          "years_in_practice": 21,
+          "education": [
+            "University of Toronto Faculty of Medicine"
+          ]
+        }
+      },
+      {
+        "_index": "newjerseynewhha",
+        "_type": "DoctorInfo",
+        "_id": "NGFZ02MBGOchcLmEYEnR",
+        "_score": 1,
+        "_source": {
+          "subspecialties": [
+            "General Surgery",
+            "Colon & Rectal Surgery"
+          ],
+          "name": "Michael Tarlowe",
+          "language": [
+            "English"
+          ],
+          "certification": [
+            "American Board of Colon and Rectal Surgery",
+            "American Board of Surgery"
+          ],
+          "overview": """Dr. Michael Tarlowe is a surgeon in White Plains, New York and is affiliated with multiple hospitals in the area, including Mount Sinai Hospital and White Plains Hospital. He received his medical degree from Rutgers New Jersey Medical School and has been in practice between 11-20 years. Dr. Tarlowe accepts several types of health insurance, listed below. He is one of 135 doctors at <a href="/best-hospitals/area/ny/mount-sinai-medical-center-6213140">Mount Sinai Hospital</a> and one of 29 at <a href="/best-hospitals/area/ny/white-plains-hospital-6215330">White Plains Hospital</a> who specialize in Surgery.""",
+          "subcity": "alpine",
+          "officeLocation": {
+            "city": "White Plains",
+            "zip": "10605",
+            "address1": "12 Greenridge Ave",
+            "address2": "Suite 400",
+            "longitude": -73.7660764,
+            "state": "NY",
+            "latitude": 41.0260944
+          },
+          "hospital_affiliation": [
+            "White Plains Hospital",
+            "Mount Sinai Hospital"
+          ],
+          "specialities": "Surgery",
+          "licenses": [
+            "NY Medical License"
+          ],
+          "years_in_practice": 11,
+          "education": [
+            "North Shore-Long Island Jewish Health System",
+            "Rutgers-NJMS",
+            "Rutgers New Jersey Medical School"
+          ]
+        }
+      },
+      {
+        "_index": "newjerseynewhha",
+        "_type": "DoctorInfo",
+        "_id": "n2FZ02MBGOchcLmEdUn1",
+        "_score": 1,
+        "_source": {
+          "subspecialties": [
+            "General Endocrinology",
+            "Diabetes"
+          ],
+          "name": "Svetlana Fomin",
+          "language": [
+            "English"
+          ],
+          "certification": [
+            "American Board of Internal Medicine"
+          ],
+          "overview": """Dr. Svetlana Fomin is an endocrinologist in Point Pleasant Beach, New Jersey and is affiliated with multiple hospitals in the area, including Ocean Medical Center and Robert Wood Johnson University Hospital. She is one of 5 doctors at <a href="/best-hospitals/area/nj/ocean-medical-center-6221170">Ocean Medical Center</a> and one of 27 at <a href="/best-hospitals/area/nj/robert-wood-johnson-university-hospital-6220920">Robert Wood Johnson University Hospital</a> who specialize in Endocrinology, Diabetes & Metabolism.""",
+          "subcity": "asbury-park",
+          "officeLocation": {
+            "city": "Point Pleasant Beach",
+            "zip": "08742",
+            "address1": "2200 River Road, Suite A",
+            "address2": null,
+            "longitude": -74.0695676,
+            "state": "NJ",
+            "latitude": 40.0865286
+          },
+          "hospital_affiliation": [
+            "Ocean Medical Center",
+            "Robert Wood Johnson University Hospital"
+          ],
+          "specialities": "Endocrinology, Diabetes & Metabolism",
+          "licenses": [
+            "NJ Medical License"
+          ],
+          "years_in_practice": 1,
+          "education": [
+            "Jersey Shore Medical Center",
+            "UMDNJ-Robert Wood Johnson Medical School"
+          ]
+        }
+      },
+      {
+        "_index": "newjerseynewhha",
+        "_type": "DoctorInfo",
+        "_id": "oWFZ02MBGOchcLmEdklj",
+        "_score": 1,
+        "_source": {
+          "subspecialties": [
+            "General Pediatric Endocrinology"
+          ],
+          "name": "Malcolm Schwartz",
+          "language": [
+            "English"
+          ],
+          "certification": [],
+          "overview": """Dr. Malcolm Schwartz is a pediatric endocrinologist in Long Branch, New Jersey and is affiliated with multiple hospitals in the area, including Hackensack University Medical Center and Monmouth Medical Center, Long Branch Campus. He received his medical degree from Other and has been in practice for more than 20 years. He is one of 9 doctors at <a href="/best-hospitals/area/nj/hackensack-university-medical-center-6220340">Hackensack University Medical Center</a> and one of 4 at <a href="/best-hospitals/area/nj/monmouth-medical-center-6220560">Monmouth Medical Center, Long Branch Campus</a> who specialize in Pediatric Endocrinology.""",
+          "subcity": "asbury-park",
+          "officeLocation": {
+            "city": "Long Branch",
+            "zip": "07740",
+            "address1": "133 Pavilion Ave",
+            "address2": null,
+            "longitude": -73.985399,
+            "state": "NJ",
+            "latitude": 40.296821
+          },
+          "hospital_affiliation": [
+            "Monmouth Medical Center, Long Branch Campus",
+            "Monmouth Medical Center, Southern Campus",
+            "Hackensack University Medical Center"
+          ],
+          "specialities": "Pediatric Endocrinology",
+          "licenses": [
+            "MO Medical License",
+            "NJ Medical License",
+            "GA Medical License"
+          ],
+          "years_in_practice": 21,
+          "education": [
+            "Other"
+          ]
+        }
+      },
+      {
+        "_index": "newjerseynewhha",
+        "_type": "DoctorInfo",
+        "_id": "p2FZ02MBGOchcLmEd0mP",
+        "_score": 1,
+        "_source": {
+          "subspecialties": [
+            "General Anesthesiology",
+            "Cardiothoracic Anesthesiology"
+          ],
+          "name": "Jeffrey Levine",
+          "language": [
+            "English"
+          ],
+          "certification": [
+            "American Board of Anesthesiology"
+          ],
+          "overview": """Dr. Jeffrey Levine is an anesthesiologist in Ridgewood, New Jersey and is affiliated with Valley Hospital. He received his medical degree from Albert Einstein College of Medicine of Yeshiva University and has been in practice for more than 20 years. He is one of 43 doctors at <a href="/best-hospitals/area/nj/valley-hospital-6221235">Valley Hospital</a> who specialize in Anesthesiology.""",
+          "subcity": "allendale",
+          "officeLocation": {
+            "city": "Ridgewood",
+            "zip": "07450",
+            "address1": "223 N Van Dien Ave",
+            "address2": null,
+            "longitude": -74.100474,
+            "state": "NJ",
+            "latitude": 40.983589
+          },
+          "hospital_affiliation": [
+            "Valley Hospital"
+          ],
+          "specialities": "Anesthesiology",
+          "licenses": [
+            "NJ Medical License"
+          ],
+          "years_in_practice": 21,
+          "education": [
+            "Albert Einstein - Montefiore Medical Center",
+            "Albert Einstein - Montefiore Medical Center",
+            "Albert Einstein College of Medicine of Yeshiva University"
+          ]
+        }
+      },
+      {
+        "_index": "newjerseynewhha",
+        "_type": "DoctorInfo",
+        "_id": "qGFZ02MBGOchcLmEd0m8",
+        "_score": 1,
+        "_source": {
+          "subspecialties": [
+            "General Cardiology"
+          ],
+          "name": "Dmitry Gorelik",
+          "language": [
+            "English"
+          ],
+          "certification": [
+            "American Board of Internal Medicine",
+            "American Board of Internal Medicine"
+          ],
+          "overview": """Dr. Dmitry Gorelik is a cardiologist in Wyckoff, New Jersey and is affiliated with NYU Langone Medical Center. He is one of 218 doctors at <a href="/best-hospitals/area/ny/nyu-langone-medical-center-6212925">NYU Langone Medical Center</a> who specialize in Cardiovascular Disease.""",
+          "subcity": "allendale",
+          "officeLocation": {
+            "city": "Wyckoff",
+            "zip": "07481",
+            "address1": "197 Wyckoff Ave",
+            "address2": null,
+            "longitude": -74.157064,
+            "state": "NJ",
+            "latitude": 40.9871229
+          },
+          "hospital_affiliation": [
+            "NYU Langone Medical Center"
+          ],
+          "specialities": "Cardiovascular Disease",
+          "licenses": [
+            "CA Medical License",
+            "NY Medical License",
+            "CO Medical License",
+            "NJ Medical License"
+          ],
+          "years_in_practice": 1,
+          "education": [
+            "St Barnabas Medical Center",
+            "Maimonides Medical Center",
+            "University at Buffalo"
+          ]
+        }
+      },
+      {
+        "_index": "newjerseynewhha",
+        "_type": "DoctorInfo",
+        "_id": "rGFZ02MBGOchcLmEeElu",
+        "_score": 1,
+        "_source": {
+          "subspecialties": [
+            "General Cardiology",
+            "Echocardiography",
+            "Interventional Cardiology",
+            "Nuclear Cardiology"
+          ],
+          "name": "Alan Simon",
+          "language": [
+            "English"
+          ],
+          "certification": [
+            "American Board of Internal Medicine",
+            "American Board of Internal Medicine"
+          ],
+          "overview": """Dr. Alan Simon is a cardiologist in Ridgewood, New Jersey and is affiliated with multiple hospitals in the area, including St. Joseph's Healthcare System-Paterson and Valley Hospital. He received his medical degree from NYU School of Medicine and has been in practice for more than 20 years. Dr. Simon accepts several types of health insurance, listed below. He is one of 64 doctors at <a href="/best-hospitals/area/nj/st-josephs-regional-medical-center-6221120">St. Joseph's Healthcare System-Paterson</a> and one of 87 at <a href="/best-hospitals/area/nj/valley-hospital-6221235">Valley Hospital</a> who specialize in Cardiovascular Disease.""",
+          "subcity": "allendale",
+          "officeLocation": {
+            "city": "Ridgewood",
+            "zip": "07450",
+            "address1": "1124 E Ridgewood Ave",
+            "address2": "Suite 202",
+            "longitude": -74.0954,
+            "state": "NJ",
+            "latitude": 40.9737
+          },
+          "hospital_affiliation": [
+            "Valley Hospital",
+            "St. Joseph's Healthcare System-Paterson"
+          ],
+          "specialities": "Cardiovascular Disease",
+          "licenses": [
+            "NJ Medical License"
+          ],
+          "years_in_practice": 21,
+          "education": [
+            "New York Presbyterian Hospital -  Columbia Campus",
+            "New York Presbyterian Hospital -  Columbia Campus",
+            "NYU School of Medicine"
+          ]
+        }
+      },
+      {
+        "_index": "newjerseynewhha",
+        "_type": "DoctorInfo",
+        "_id": "s2FZ02MBGOchcLmEeUm7",
+        "_score": 1,
+        "_source": {
+          "subspecialties": [
+            "General Medical Genetics",
+            "Clinical Genetics"
+          ],
+          "name": "Susan Gross",
+          "language": [
+            "English"
+          ],
+          "certification": [
+            "American Board of Obstetrics and Gynecology",
+            "American Board of Medical Genetics and Genomics"
+          ],
+          "overview": "Dr. Susan Gross is a medical genetics doctor in Bronx, New York. She received her medical degree from University of Toronto Faculty of Medicine and has been in practice for more than 20 years. Dr. Gross accepts several types of health insurance, listed below.",
+          "subcity": "allendale",
+          "officeLocation": {
+            "city": "Bronx",
+            "zip": "10471",
+            "address1": "SJG Advisors, LLC",
+            "address2": "10 Alderbrook Road",
+            "longitude": -73.9053,
+            "state": "NY",
+            "latitude": 40.9011
+          },
+          "hospital_affiliation": [],
+          "specialities": null,
+          "licenses": [
+            "NY Medical License"
+          ],
+          "years_in_practice": 21,
+          "education": [
+            "University of Toronto Faculty of Medicine"
+          ]
+        }
+      },
+      {
+        "_index": "newjerseynewhha",
+        "_type": "DoctorInfo",
+        "_id": "ZWFZ02MBGOchcLmEaklI",
+        "_score": 1,
+        "_source": {
+          "subspecialties": [
+            "General Dermatology"
+          ],
+          "name": "Judy Anderson",
+          "language": [
+            "English"
+          ],
+          "certification": [
+            "American Board of Dermatology"
+          ],
+          "overview": """Dr. Judy Anderson is a dermatologist in Yonkers, New York and is affiliated with St. John's Riverside Hospital. She received her medical degree from State University of New York Downstate Medical Center College of Medicine and has been in practice for more than 20 years. She is one of 6 doctors at <a href="/best-hospitals/area/ny/st-johns-riverside-hospital-6210039">St. John's Riverside Hospital</a> who specialize in Dermatology.""",
+          "subcity": "alpine",
+          "officeLocation": {
+            "city": "Yonkers",
+            "zip": "10701",
+            "address1": "984 N Broadway",
+            "address2": "#310",
+            "longitude": -73.8849759,
+            "state": "NY",
+            "latitude": 40.9681421
+          },
+          "hospital_affiliation": [
+            "St. John's Riverside Hospital"
+          ],
+          "specialities": "Dermatology",
+          "licenses": [
+            "NY Medical License"
+          ],
+          "years_in_practice": 21,
+          "education": [
+            "SUNY Health Science Center at Brooklyn",
+            "Mount Sinai School of Medicine",
+            "State University of New York Downstate Medical Center College of Medicine"
+          ]
+        }
+      },
+      {
+        "_index": "newjerseynewhha",
+        "_type": "DoctorInfo",
+        "_id": "Z2FZ02MBGOchcLmEakm3",
+        "_score": 1,
+        "_source": {
+          "subspecialties": [
+            "General Dermatology"
+          ],
+          "name": "Miriam Fishman",
+          "language": [
+            "English"
+          ],
+          "certification": [
+            "American Board of Dermatology"
+          ],
+          "overview": """Dr. Miriam Fishman is a dermatologist in Englewood, New Jersey and is affiliated with Englewood Hospital and Medical Center. She received her medical degree from NYU School of Medicine and has been in practice for more than 20 years. She is one of 13 doctors at <a href="/best-hospitals/area/nj/englewood-hospital-and-medical-center-6220280">Englewood Hospital and Medical Center</a> who specialize in Dermatology.""",
+          "subcity": "alpine",
+          "officeLocation": {
+            "city": "Englewood",
+            "zip": "07631",
+            "address1": "216 Engle St",
+            "address2": null,
+            "longitude": -73.969616,
+            "state": "NJ",
+            "latitude": 40.90051
+          },
+          "hospital_affiliation": [
+            "Englewood Hospital and Medical Center"
+          ],
+          "specialities": "Dermatology",
+          "licenses": [
+            "NJ Medical License"
+          ],
+          "years_in_practice": 21,
+          "education": [
+            "Albert Einstein - Montefiore Medical Center",
+            "Albert Einstein - Montefiore Medical Center",
+            "Albert Einstein College of Medicine at Jacobi Medical Center",
+            "New York Presbyterian Hospital - Cornell Campus",
+            "NYU School of Medicine"
+          ]
+        }
+      },
+      {
+        "_index": "newjerseynewhha",
+        "_type": "DoctorInfo",
+        "_id": "a2FZ02MBGOchcLmEa0lo",
+        "_score": 1,
+        "_source": {
+          "subspecialties": [
+            "General Dermatology"
+          ],
+          "name": "Elaine Digrande",
+          "language": [
+            "English"
+          ],
+          "certification": [
+            "American Board of Dermatology"
+          ],
+          "overview": "Dr. Elaine Digrande is a dermatologist in Yonkers, New York. She received her medical degree from New York Medical College and has been in practice for more than 20 years.",
+          "subcity": "alpine",
+          "officeLocation": {
+            "city": "Yonkers",
+            "zip": "10471",
+            "address1": "127 South Broadway",
+            "address2": "St Josephs Urgi Center",
+            "longitude": -73.8964607,
+            "state": "NY",
+            "latitude": 40.9289544
+          },
+          "hospital_affiliation": [],
+          "specialities": "Dermatology",
+          "licenses": [
+            "NY Medical License"
+          ],
+          "years_in_practice": 21,
+          "education": [
+            "Mount Sinai St. Luke's - West Hospital Center",
+            "Brookdale University Hospital and Medical Center",
+            "New York Medical College"
+          ]
+        }
+      },
+      {
+        "_index": "newjerseynewhha",
+        "_type": "DoctorInfo",
+        "_id": "bWFZ02MBGOchcLmEa0nA",
+        "_score": 1,
+        "_source": {
+          "subspecialties": [
+            "General Allergy & Immunology",
+            "Asthma & Allergic Conditions",
+            "Pediatric Asthma & Allergic Conditions"
+          ],
+          "name": "Gary Gross",
+          "language": [
+            "English"
+          ],
+          "certification": [
+            "American Board of Allergy and Immunology",
+            "American Board of Pediatrics"
+          ],
+          "overview": """Dr. Gary Gross is an allergist-immunologist in Ocean, New Jersey and is affiliated with multiple hospitals in the area, including Jersey Shore University Medical Center and Monmouth Medical Center, Long Branch Campus. He received his medical degree from NYU School of Medicine and has been in practice for more than 20 years. Dr. Gross accepts several types of health insurance, listed below. He is one of 7 doctors at <a href="/best-hospitals/area/nj/jersey-shore-university-medical-center-6220740">Jersey Shore University Medical Center</a> and one of 10 at <a href="/best-hospitals/area/nj/monmouth-medical-center-6220560">Monmouth Medical Center, Long Branch Campus</a> who specialize in Allergy & Immunology.""",
+          "subcity": "asbury-park",
+          "officeLocation": {
+            "city": "Ocean",
+            "zip": "07712",
+            "address1": "802 W Park Ave",
+            "address2": "Ste 213",
+            "longitude": -74.044348,
+            "state": "NJ",
+            "latitude": 40.262749
+          },
+          "hospital_affiliation": [
+            "Jersey Shore University Medical Center",
+            "Monmouth Medical Center, Long Branch Campus"
+          ],
+          "specialities": "Allergy & Immunology",
+          "licenses": [
+            "NJ Medical License"
+          ],
+          "years_in_practice": 21,
+          "education": [
+            "Children's National Medical Center - George Washington University",
+            "Children's Hospital of Los Angeles",
+            "Children's National Medical Center - George Washington University",
+            "NYU School of Medicine"
+          ]
+        }
+      },
+      {
+        "_index": "newjerseynewhha",
+        "_type": "DoctorInfo",
+        "_id": "dGFZ02MBGOchcLmEbUkl",
+        "_score": 1,
+        "_source": {
+          "subspecialties": [
+            "General Dermatology",
+            "Cosmetic Dermatology",
+            "Dermatologic Surgery"
+          ],
+          "name": "Michele Grodberg",
+          "language": [
+            "English"
+          ],
+          "certification": [
+            "American Board of Dermatology"
+          ],
+          "overview": """Dr. Michele Grodberg is a dermatologist in Englewood, New Jersey and is affiliated with Englewood Hospital and Medical Center. She received her medical degree from NYU School of Medicine and has been in practice for more than 20 years. She is one of 13 doctors at <a href="/best-hospitals/area/nj/englewood-hospital-and-medical-center-6220280">Englewood Hospital and Medical Center</a> who specialize in Dermatology.""",
+          "subcity": "alpine",
+          "officeLocation": {
+            "city": "Englewood",
+            "zip": "07631",
+            "address1": "106 Grand Ave",
+            "address2": null,
+            "longitude": -73.976352,
+            "state": "NJ",
+            "latitude": 40.889776
+          },
+          "hospital_affiliation": [
+            "Englewood Hospital and Medical Center"
+          ],
+          "specialities": "Dermatology",
+          "licenses": [
+            "NY Medical License",
+            "NJ Medical License"
+          ],
+          "years_in_practice": 21,
+          "education": [
+            "NYU School of Medicine",
+            "Beth Israel Deaconess Medical Center",
+            "NYU School of Medicine"
+          ]
+        }
+      },
+      {
+        "_index": "newjerseynewhha",
+        "_type": "DoctorInfo",
+        "_id": "Q2FZ02MBGOchcLmEY0mv",
+        "_score": 1,
+        "_source": {
+          "subspecialties": [
+            "General Cardiology",
+            "Cardiac Electrophysiology"
+          ],
+          "name": "Salim Baghdadi",
+          "language": [
+            "English"
+          ],
+          "certification": [
+            "American Board of Internal Medicine",
+            "American Board of Internal Medicine",
+            "American Board of Internal Medicine"
+          ],
+          "overview": """Dr. Salim Baghdadi is a cardiologist in Bronx, New York and is affiliated with NYU Langone Medical Center. He received his medical degree from Albert Einstein College of Medicine of Yeshiva University and has been in practice between 11-20 years. He is one of 218 doctors at <a href="/best-hospitals/area/ny/nyu-langone-medical-center-6212925">NYU Langone Medical Center</a> who specialize in Cardiovascular Disease.""",
+          "subcity": "alpine",
+          "officeLocation": {
+            "city": "Bronx",
+            "zip": "10457",
+            "address1": "4422 Third Ave",
+            "address2": "Suite 2701",
+            "longitude": -73.8999,
+            "state": "NY",
+            "latitude": 40.8486
+          },
+          "hospital_affiliation": [
+            "NYU Langone Medical Center"
+          ],
+          "specialities": "Cardiovascular Disease",
+          "licenses": [
+            "NY Medical License"
+          ],
+          "years_in_practice": 11,
+          "education": [
+            "Albert Einstein College of Medicine",
+            "Albert Einstein - Montefiore Medical Center",
+            "Mount Sinai Beth Israel",
+            "Albert Einstein College of Medicine of Yeshiva University"
+          ]
+        }
+      },
+      {
+        "_index": "newjerseynewhha",
+        "_type": "DoctorInfo",
+        "_id": "RGFZ02MBGOchcLmEY0na",
+        "_score": 1,
+        "_source": {
+          "subspecialties": [
+            "General Cardiology",
+            "Cardiac Electrophysiology"
+          ],
+          "name": "Soo Kim",
+          "language": [
+            "English"
+          ],
+          "certification": [
+            "American Board of Internal Medicine",
+            "American Board of Internal Medicine"
+          ],
+          "overview": """Dr. Soo Kim is a cardiologist in Bronx, New York and is affiliated with Montefiore Medical Center. He received his medical degree from Pusan National University College of Medicine and has been in practice for more than 20 years. He is one of 139 doctors at <a href="/best-hospitals/area/ny/montefiore-medical-center-6213100">Montefiore Medical Center</a> who specialize in Cardiovascular Disease.""",
+          "subcity": "alpine",
+          "officeLocation": {
+            "city": "Bronx",
+            "zip": "10467",
+            "address1": "Mmc - Dept. Of Cardiology",
+            "address2": "111 East 210th Street",
+            "longitude": -73.87425,
+            "state": "NY",
+            "latitude": 40.8752834
+          },
+          "hospital_affiliation": [
+            "Montefiore Medical Center"
+          ],
+          "specialities": "Cardiovascular Disease",
+          "licenses": [
+            "NY Medical License"
+          ],
+          "years_in_practice": 21,
+          "education": [
+            "New York Methodist Hospital",
+            "New York Methodist Hospital",
+            "Unity St Mary's Campus",
+            "Pusan National University College of Medicine"
+          ]
+        }
+      }
+    ]
+  }
+}
